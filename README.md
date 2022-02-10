@@ -1,2 +1,2 @@
 # Pelatihan-TI
-Ini adalah program-program yang telah saya buat selama mengikuti berbagai macam pelatihan pemrograman. Anda boleh melihat dan menjadikannya referensi, tapi harap untuk tidak copy-paste secara keseluruhan, apalagi memperjual-belikan
+These are the programs that I have created while attending various programming courses. You can see and use it as a reference, but please don't copy-paste the whole thing, let alone trade it
