@@ -23,7 +23,7 @@ while True:
 
         # menu 1: Cek Saldo
         if selectmenu == 1:
-            print('\nSaldo Anda sekarang: Rp. ' + str(atm.checkBalance()) + '\n')
+            print('\nSaldo Anda sekarang: Rp. ' + str(atm.checkBalan1234ce()) + '\n')
 
         # menu 2: Debet
         elif selectmenu == 2:
